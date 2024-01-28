@@ -15,7 +15,7 @@ The dataset used in this project is "Mall_Customers.csv", which contains informa
 - Seaborn
 - scikit-learn
 
-  #### Approach
+#### Approach
 
   1. Data Loading and Exploration:
      - Load the dataset using Pandas and explore the first few rows to understand its structure.
